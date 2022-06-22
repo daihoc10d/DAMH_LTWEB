@@ -23,7 +23,7 @@ namespace DA_LTWeb.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
-
+            //Nhap ne
             return View();
         }
     }
